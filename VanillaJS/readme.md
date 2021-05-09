@@ -67,3 +67,11 @@ EX) li , ul , span , button
 > 부모 요소 안에 요소를 넣는것
 
 "tag" 에는 HTML tag들이 들어간다.
+
+## #3.5 Making a To Do List part Two
+
+### array.push()
+
+> 배열안에 값을 집어 넣는다.
+
+###
